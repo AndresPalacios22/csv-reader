@@ -1,5 +1,6 @@
 <template>
   <div>
+    test
     <input-csv v-model="data"/>
     <csv-editor :data="data" />
   </div>
